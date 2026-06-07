@@ -41,7 +41,6 @@ body {
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
 }
-git remote add origin https://gitlab.com/JuneMuoti/kingdom-dashboard.git
 
 input, select, textarea, button { font-family: var(--font-body); }
 
