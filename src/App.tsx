@@ -97,9 +97,9 @@ export default function App() {
               An ambassador for Christ in every organization
             </p>
             <h1 style={{ fontFamily: 'var(--font-display)', fontSize: 28, fontWeight: 700, color: 'var(--text-primary)', lineHeight: 1.2, marginBottom: 6 }}>
-              Kingdom Ambassadors
+              Kingdom Ambassadors @Market Place
             </h1>
-            <p style={{ fontSize: 14, color: 'var(--text-secondary)' }}>Marketplace class · Project progress dashboard</p>
+            <p style={{ fontSize: 14, color: 'var(--text-secondary)' }}> Project progress dashboard</p>
           </div>
           <button
             onClick={() => { setEditProject(null); setModalOpen(true); }}
@@ -186,7 +186,7 @@ export default function App() {
       {/* Footer */}
       <div style={{ marginTop: '3rem', paddingTop: '1.5rem', borderTop: '1px solid var(--border)', textAlign: 'center' }}>
         <p style={{ fontSize: 12, color: 'var(--text-tertiary)', fontStyle: 'italic' }}>
-          Isaiah 2:2 · The mountain of the Lord will be established as the highest
+          An ambassador for Christ in every organization
         </p>
       </div>
 
